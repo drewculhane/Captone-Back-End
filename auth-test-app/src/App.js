@@ -4,6 +4,7 @@ import {BrowserRouter, Switch, Route } from "react-router-dom";
 import Home from "./Home";
 import Dashboard from "./Dashboard";
 import axios from 'axios'
+import DreamwayHome from './DreamwayHome';
 export default class App extends Component {
   constructor() {
     super(); 
@@ -63,6 +64,7 @@ export default class App extends Component {
          <Dashboard {...props} loggedInStatus={this.state.loggedInStatus} />
        )}
        />
+       <Route exact path={"/DreamwayHome"} component={DreamwayHome} />
       </Switch> 
       </BrowserRouter>
       </div>
