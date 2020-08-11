@@ -21,7 +21,7 @@ I have chosen Ruby on Rails as a server for API data because of how seamlessly b
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
+Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app. Here it is: 
 
 - [First Draft](https://res.cloudinary.com/dgmpgmo60/image/upload/v1597111987/Untitled_3_xwiiff.jpg)
 - [Wireframes and React architecture rough sketch](https://docs.google.com/presentation/d/14bTXqfF_ZctrxEjwUjeEoK7tPUh4erwvFlkRGOBPXGY/edit?usp=sharing)
