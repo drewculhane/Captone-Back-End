@@ -13,6 +13,8 @@
 
 
 - [subdomain_server_at_Squarespace](https://www.thedreamway.space/)
+(It's just a kind of proxy for herkou because I had problems with putting the samesite code in my ruby backend, 
+but hey, it worked out...) 
 - [Auberdine_Animation](https://github.com/drewculhane/Auberdine-Animation-)
 ## Project Description
 
