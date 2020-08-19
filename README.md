@@ -1,10 +1,17 @@
 # Project Overview
 
 ## Project Links
+- [FULL DEPLOYED:](https://dream-tester-1011.herokuapp.com/)
+(https://dream-tester-1011.herokuapp.com/)
 
-- [Front_end_Link](https://github.com/drewculhane/capstone_final_frontend-)
+
+- [Front_end_repo](https://github.com/drewculhane/capstone_final_frontend-)
 198 commits.... insane. 
-- [Back_end_Heroku](https://test-dreamway-1234.herokuapp.com/)https://test-dreamway-1234.herokuapp.com/
+- [Back_end_Heroku](https://test-dreamway-1234.herokuapp.com/)
+
+(https://test-dreamway-1234.herokuapp.com/)
+
+
 - [subdomain_server_at_Squarespace](https://www.thedreamway.space/)
 - [Auberdine_Animation](https://github.com/drewculhane/Auberdine-Animation-)
 ## Project Description
